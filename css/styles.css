@@ -47,7 +47,7 @@ nav a:hover {
 
 .about-text {
     flex: 1;
-    max-width: 60%;  /* You can adjust this based on your preference */
+    max-width: 70%;  /* You can adjust this based on your preference */
 }
 
 .about-image {
@@ -55,10 +55,11 @@ nav a:hover {
 }
 
 .profile-pic {
+    float: right;
     width: 200px;  /* Control the image size */
     height: auto;
     border-radius: 50%;  /* Optional: To make the image round */
-    float: right;
+    
 }
 
 h2 {
