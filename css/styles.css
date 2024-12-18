@@ -58,4 +58,5 @@ nav a:hover {
     width: 200px;  /* Control the image size */
     height: auto;
     border-radius: 50%;  /* Optional: To make the image round */
+    float: right;
 }
