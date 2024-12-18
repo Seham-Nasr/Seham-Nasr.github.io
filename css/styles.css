@@ -86,9 +86,27 @@ h2 {
     color: #555;
 }
 
-footer {
-    text-align: center;
-    padding: 10px;
-    background: #f4f4f4;
-    border-top: 2px solid #ccc;
+#publications-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.publication {
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.publication h3 {
+    font-size: 1.5rem;
+    color: #0056b3;
+    margin: 0;
+}
+
+.publication p {
+    margin: 5px 0;
+    color: #555;
 }
