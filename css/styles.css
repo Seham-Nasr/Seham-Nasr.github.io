@@ -55,10 +55,10 @@ nav a:hover {
 }
 
 .profile-pic {
-    float: right;  /* Control the image size */
+    width: 150px; /* Adjust based on preference */
+    max-width: 100%; /* Ensure it scales down on smaller screens */
     height: auto;
-    border-radius: 50%;  /* Optional: To make the image round */
-    
+    border-radius: 50%;
 }
 
 h2 {
