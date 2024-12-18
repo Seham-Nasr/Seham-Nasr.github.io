@@ -3,43 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name</title>
-    <link rel="stylesheet" href="css/styles.css">
+    <title>Seham's Web Corner</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .content {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+        .text {
+            width: 70%;
+        }
+        .image-right {
+            width: 200px;
+            margin-left: 20px;
+        }
+        .image-inline {
+            margin-top: 20px;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        <h1>Seham Nasr</h1>
-        <p>PhD Candidate</p>
-    </header>
-    <main>
-        <section>
-            <h2>About Me</h2>
-            <p>
-            Hey, I'm Seham! I work as a data science researcher, and a PhD candidate at the Center for Cognitive Interaction Technology (CITEC) - Bielefeld University, Germany. <br><br><br><br>
-            Welcome to my corner of the web, where I share my writing, projects, tutorials, art, and
-            whatever else I feel like putting out there. Here, you'll find my notes and a collection of technical articles
-            I've written over the years.            
-            Visit the projects page to explore highlights of my open-source contributions.<br><br>
-                
-            This site is free of ads, affiliate links, tracking, sponsored posts, and paywalls.
-            It's a space for self-expression and sharing what I've learned with the world. 
-            I want to inspire others to create their own creative space online, standing strong against the declining
-            quality of the internet.
-            <img src="profile.jpg" alt="A picture of me" width="200">
-
-            </p>
-        </section>
-        <section>
-            <h2>Work</h2>
-            <p>Details of your work or projects.</p>
-        </section>
-        <section>
-            <h2>Contact</h2>
-            <p>Links to your social media or email.</p>
-        </section>
-    </main>
-    <footer>
-        <p>©Seham Nasr</p>
-    </footer>
+    <div class="content">
+        <div class="text">
+            <p>Hey, I'm Seham! I work as a data science researcher, and a PhD candidate at the Center for Cognitive Interaction Technology (CITEC) - Bielefeld University, Germany.</p>
+            <p>My research interest is to build Explainable AI systems to improve transparency, trustworthiness, and understandability.</p>
+            <p>Welcome to my corner of the web, where I share my writing, projects, tutorials, art, and whatever else I feel like putting out there. Here, you'll find my notes and a collection of technical articles I've written over the years. Visit the projects page to explore highlights of my open-source contributions.</p>
+            <p>This site is free of ads, affiliate links, tracking, sponsored posts, and paywalls. It's a space for self-expression and sharing what I've learned with the world. I want to inspire others to create their own creative space online, standing strong against the declining quality of the internet.</p>
+            <img src="ecai.jpg" alt="A" class="image-inline">
+        </div>
+        <img src="profile.jpg" alt="A picture of me" class="image-right">
+    </div>
 </body>
 </html>
