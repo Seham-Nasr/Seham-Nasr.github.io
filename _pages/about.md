@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<hr style="border-top: 3px solid lightgray; margin: 20px auto; width: 50%;">
+<hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
+
 
 
 
