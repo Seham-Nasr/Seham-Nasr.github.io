@@ -3,11 +3,11 @@ title: "IndMask: Inductive Explanation for Multivariate Time Series Black-box Mo
 collection: publications
 category: conferences
 permalink: /publication/IndMask
-excerpt: 'This paper is about Explainable AI for time series'
-date: 2024-10-20
+# excerpt: 'This paper is about Explainable AI for time series'
+# date: 2024-10-20
 venue: 'ECAI conference'
 paperurl: 'https://paperswithcode.com/paper/indmask-inductive-explanation-for'
-citation: 'Seham, Nasr. (2024)."IndMask" <i>ECAI conference</i>.'
+# citation: 'Seham, Nasr. (2024)."IndMask" <i>ECAI conference</i>.'
 ---
 Authors: Seham Nasr, Sandipan Sikdar
 
