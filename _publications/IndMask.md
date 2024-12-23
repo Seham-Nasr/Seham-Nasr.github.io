@@ -7,7 +7,7 @@ excerpt: 'This paper is about Explainable AI for time series'
 date: 2024-10-20
 venue: 'ECAI conference'
 paperurl: 'https://paperswithcode.com/paper/indmask-inductive-explanation-for'
-citation: 'Seham, Nasr. (2024)."IndMask" <i>ECAI conference</i>. 1(1).'
+citation: 'Seham, Nasr. (2024)."IndMask" <i>ECAI conference</i>.'
 ---
 Authors: Seham Nasr, Sandipan Sikdar
 
