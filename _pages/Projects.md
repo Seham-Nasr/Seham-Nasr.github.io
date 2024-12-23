@@ -6,6 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
+
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
 <br>
 
