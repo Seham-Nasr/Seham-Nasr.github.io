@@ -2,7 +2,7 @@
 title: "Talk on Explainable AI for time series"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/ecai24
 venue: "Spain, ECAI conference 2024"
 date: 2024-23-10
 location: "Spain, santiago de compostela"
