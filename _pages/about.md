@@ -9,7 +9,7 @@ redirect_from:
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
 
 
-<br><br><br>
+<br><br>
 
 Hey, I'm **Seham Nasr**! I am a data science researcher, and a **PhD candidate** at the Center for Cognitive Interaction Technology (CITEC)- Bielefeld University, Germany.
 
