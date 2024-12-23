@@ -46,17 +46,27 @@ Skills
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
 
 * Python
-  * TensorFlow, PyTorch, sci-kit-learn
+  * TensorFlow
+  * PyTorch
+  * sci-kit-learn
 * SQL
 * Time Series Analysis, Biosignal Analysis, Speech Signal Processing
 * Explainable AI
 * Data Visualization (Matplotlib, Pandas)
 * Machine Learning, and Deep Learning
 
+Soft Skills
+======
+<hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
+* Time management
+* Organisational skills
+* Communication and interpersonal skills 
+* High level of computer-related skills
+* Adaptative Adaptive to changes creativity and planning Work commitment Emotional Intelligence (working with people with different needs, visions, religions)
+
 Languages
 ======
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
-
 * Arabic
 * English
 * German (learning)
