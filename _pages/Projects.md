@@ -10,8 +10,9 @@ redirect_from:
 
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
 <br>
+List of relevant projects
+=========================
 
-List of relevant projects:
 - **AI in the pediatric intensive care unit (started 15th Nov. 2021 30th Dec.2023)2023**: We are focusing on predicting organ dysfunction using PICU data. These are, for example, vital signs such as heart rate, laboratory values such as the number of leucocytes in the blood, or patient data such as age.
 We applied multiple rounds of data analysis, visualization, and
 maintenance on the dataset with collaboration with medical doctors to
