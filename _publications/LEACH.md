@@ -1,7 +1,7 @@
 ---
 title: "LEACH protocol enhancement for increasing WSN lifetime"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/LEACH
 excerpt: 'This paper is about enhancement for increasing WSN lifetime'
 # date: 2021-07-26
