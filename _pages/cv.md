@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Data Science, 2027 (expected)
+* M.S. in Computer Engineering, Jordan University of Science and Technology, Oct 2021
+* B.S. in Software Engineering, Taiz University, Jul 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May-2024-Present: Data Science Research - PhD Candidate
+  * HCXAI group, CITEC- Bielefeld University
+  * Duties included: Conducting research on Human-Centered Explainable AI (HCXAI), Developing algorithms to improve AI explainability, and Published findings and presented at conferences.
+  * Supervisor: David Johnson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* Nov 2021 - April-2024 : Data Science Research Assistant
+*  L3S Research Center, Hannover University
+* Duties include: Improving AI reliability through explainable AI approaches, Developing neural time series models for classification and forecasting, Creating deep learning algorithms for biosignal analysis, and being Proficient in Python, SQL, TensorFlow, and PyTorch. 
+* Supervisor: Wolfgang Nejdl, and Sandipan sikdar
+
+* Feb 2023: Data Scientist
+  * VTMW, Hannover- Germany
+  * Duties included: Building datasets and predictive models for sustainable solutions in the German market, and being Proficient in Excel, Python, and PostgreSQL.
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2022 - Aug 2022: Tutor
+  * Leibniz University Hanover
+  * Duties included: Delivering tutorials on Artificial Intelligence and supervising projects for bachelor's students.
+  * Supervisor: Wolfgang Nejdl
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Python
+  * TensorFlow, PyTorch, sci-kit-learn
+* SQL
+* Time Series Analysis, Biosignal Analysis, Speech Signal Processing
+* Explainable AI
+* Data Visualization (Matplotlib, Pandas)
+* Machine Learning, and Deep Learning
