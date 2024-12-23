@@ -1,7 +1,7 @@
 ---
 title: "Text-independent speaker recognition using deep neural networks"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/speakerID
 excerpt: 'This paper is about Arabic Speech processing'
 # date: 2021-07-26
