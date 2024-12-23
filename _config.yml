@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/sehamnasr1/"
+  linkedin         : "sehamnasr1/"
   mastodon         : # URL
   medium           : "https://seham-nasr.medium.com/"
   pinterest        : # Username
@@ -256,7 +256,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # Projects
     - scope:
       path: ""
       type: Projects
