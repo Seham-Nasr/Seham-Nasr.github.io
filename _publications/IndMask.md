@@ -1,7 +1,7 @@
 ---
 title: "IndMask: Inductive Explanation for Multivariate Time Series Black-box Models"
 collection: publications
-# category: manuscripts
+category: conferences
 permalink: /publication/IndMask
 excerpt: 'This paper is about Explainable AI for time series'
 date: 2024-10-20
