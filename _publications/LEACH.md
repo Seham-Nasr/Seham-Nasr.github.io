@@ -1,10 +1,10 @@
 ---
 title: "LEACH protocol enhancement for increasing WSN lifetime"
 collection: publications
-category: manuscripts
+# category: manuscripts
 permalink: /publication/LEACH
 excerpt: 'This paper is about enhancement for increasing WSN lifetime'
-date: 2021-07-26
+# date: 2021-07-26
 venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9079027'
 citation: 'Seham, Nasr <i>IEEE</i>'
