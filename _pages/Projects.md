@@ -1,5 +1,5 @@
 ---
-# permalink: /
+permalink: / Projects/
 title: "Relevant Projects"
 author_profile: true
 redirect_from: 
