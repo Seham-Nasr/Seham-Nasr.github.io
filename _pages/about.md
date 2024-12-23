@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<hr style="border-top: 3px solid blue; margin: 20px 0;">
+<hr style="border-top: 3px solid gray; margin: 20px 0;">
 
 
 Hey, I'm **Seham Nasr**! I am a data science researcher, and a **PhD candidate** at the Center for Cognitive Interaction Technology (CITEC)- Bielefeld University, Germany.
