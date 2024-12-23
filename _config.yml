@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Seham Nasr"
 title_separator          : "-"
 name                     : &name "Seham Nasr"
-description              : &description "PhD candidate at CITEC - Bielefeld University"
+description              : &description "Data Science PhD candidate at CITEC - Bielefeld University"
 URL                      : "https://seham.nasr.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "seham-nasr.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Seham Nasr"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate"
+  bio              : "Data Science PhD candidate"
   location         : "Germany"
   employer         : "Bielefeld University"
   uri              : # URL
@@ -58,9 +58,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/sehamnasr1/ 
+  linkedin         : "https://www.linkedin.com/in/sehamnasr1/"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://seham-nasr.medium.com/"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
