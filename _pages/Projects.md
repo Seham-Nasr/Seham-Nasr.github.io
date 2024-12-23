@@ -1,10 +1,10 @@
 ---
-permalink: / Projects/
-title: "Relevant Projects"
+layout: archive
+title: 
+permalink: /Projects/
 author_profile: true
-redirect_from: 
-  - /Projects/
-  - /Projects.html
+redirect_from:
+  - /resume
 ---
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
 <br>
