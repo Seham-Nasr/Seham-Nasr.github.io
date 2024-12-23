@@ -8,11 +8,11 @@ redirect_from:
 ---
 {% include base_path %}
 
-<hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
+
 <br>
 List of relevant projects
 =========================
-
+<hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
 - **AI in the pediatric intensive care unit (started 15th Nov. 2021 30th Dec.2023)2023**: We are focusing on predicting organ dysfunction using PICU data. These are, for example, vital signs such as heart rate, laboratory values such as the number of leucocytes in the blood, or patient data such as age.
 We applied multiple rounds of data analysis, visualization, and
 maintenance on the dataset with collaboration with medical doctors to
@@ -32,5 +32,5 @@ Working platform is
 Pytorch. The code will be publicly available as soon
 as the submission gets accepted at the conference.
 
-- Additionally, I contributed to developing deep learning models for
-a**utomated Heart Sounds Analysis**, and our proposed Deep Neural Network (DNN) architecture is adapted to the well-known Convolutional Neural Network (CNN) and ResNet neural networks. The working platform was Pytorch
+- Additionally, I contributed to developing deep-learning models for
+**automated Heart Sounds Analysis**, and our proposed Deep Neural Network (DNN) architecture is adapted to the well-known Convolutional Neural Network (CNN) and ResNet neural networks. The working platform was Pytorch
