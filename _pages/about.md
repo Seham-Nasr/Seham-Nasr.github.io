@@ -1,6 +1,6 @@
 ---
 permalink: /
-##title: "Welcome to My Little Web Corner 😊. "
+title: "Welcome to My Little Web Corner 😊. "
 ======
 author_profile: true
 redirect_from: 
