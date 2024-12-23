@@ -1,5 +1,5 @@
 ---
-permalink: /
+# permalink: /
 title: "Relevant Projects"
 author_profile: true
 redirect_from: 
@@ -30,4 +30,4 @@ Pytorch. The code will be publicly available as soon
 as the submission gets accepted at the conference.
 
 - Additionally, I contributed to developing deep learning models for
-a**utomated Heart Sounds Analysis** and our proposed Deep Neural Network (DNN) architecture is adapted to the well-known Convolutional Neural Network (CNN) and ResNet neural networks. The working platform was Pytorch
+a**utomated Heart Sounds Analysis**, and our proposed Deep Neural Network (DNN) architecture is adapted to the well-known Convolutional Neural Network (CNN) and ResNet neural networks. The working platform was Pytorch
