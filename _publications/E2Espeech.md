@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/E2Espeech
 excerpt: 'This paper is about Arabic Speech processing'
-date: 01-12-2023
+date: 2009-10-01
 venue: 'Arabian Journal for Science and Engineering'
 paperurl: 'https://link.springer.com/article/10.1007/s13369-023-07670-7'
 citation: 'Seham, Nasr. (2024)."E2E" <i>Springer</i>. 1(1).'
