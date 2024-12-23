@@ -42,6 +42,10 @@ Work experience
 Certificates & training
 ======
 <hr style="border-top: 3px solid lightgray; margin: 20px 0; width: 50%; text-align: left;">
+* Agya summer school on Affordable AI
+  * Bonn University
+  * Arab-German Young Academy of Sciences and Humanities (AGYA)
+  * 22-07-2024
 * AI AND MACHINE LEARNING IN HEALTHCARE SUMMER SCHOOL
   * University of Cambridge
   * 11/09/2023 – 15/09/2023
