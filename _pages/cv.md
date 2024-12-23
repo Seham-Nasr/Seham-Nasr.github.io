@@ -25,9 +25,10 @@ Work experience
   * Supervisor: David Johnson
 
 * Nov 2021 - April-2024 : Data Science Research Assistant
-*  L3S Research Center, Hannover University
-* Duties include: Improving AI reliability through explainable AI approaches, Developing neural time series models for classification and forecasting, Creating deep learning algorithms for biosignal analysis, and being Proficient in Python, SQL, TensorFlow, and PyTorch. 
-* Supervisor: Wolfgang Nejdl, and Sandipan sikdar
+  *  L3S Research Center, Hannover University
+  * Duties include: Improving AI reliability through explainable AI approaches, Developing neural time series models for classification and forecasting, Creating deep learning 
+   algorithms for biosignal analysis, and being Proficient in Python, SQL, TensorFlow, and PyTorch. 
+  * Supervisor: Wolfgang Nejdl, and Sandipan sikdar
 
 * Feb 2023: Data Scientist
   * VTMW, Hannover- Germany
