@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
+<hr style="border-top: 3px solid blue; margin: 20px 0;">
 * Ph.D in Data Science, 2027 (expected)
 * M.S. in Computer Engineering, Jordan University of Science and Technology, Oct 2021
 * B.S. in Software Engineering, Taiz University, Jul 2014
 
 Work experience
 ======
+<hr style="border-top: 3px solid blue; margin: 20px 0;">
 * May-2024-Present: Data Science Research - PhD Candidate
   * HCXAI group, CITEC- Bielefeld University
   * Duties included: Conducting research on Human-Centered Explainable AI (HCXAI), Developing algorithms to improve AI explainability, and Published findings and presented at conferences.
@@ -39,6 +41,7 @@ Work experience
   
 Skills
 ======
+<hr style="border-top: 3px solid blue; margin: 20px 0;">
 * Python
   * TensorFlow, PyTorch, sci-kit-learn
 * SQL
