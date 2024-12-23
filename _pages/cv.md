@@ -72,10 +72,14 @@ Skills
   * PyTorch
   * sci-kit-learn
 * SQL
-* Time Series Analysis, Biosignal Analysis, Speech Signal Processing
-* Explainable AI
-* Data Visualization (Matplotlib, Pandas)
 * Machine Learning, and Deep Learning
+  * Explainable AI
+  * Time Series Analysis
+  * Biosignal Analysis
+  * Speech Signal Processing
+  * Human-centered AI
+  * Data analysis, and visualization
+
 
 Soft Skills
 ======
