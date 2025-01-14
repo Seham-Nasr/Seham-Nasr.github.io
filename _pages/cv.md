@@ -93,7 +93,9 @@ Soft Skills
 * Organisational skills
 * Communication and interpersonal skills 
 * High level of computer-related skills
-* Adaptative Adaptive to changes creativity and planning Work commitment Emotional Intelligence (working with people with different needs, visions, religions)
+* Adaptative to changes 
+* Planning work commitment
+* Emotional Intelligence (working with people with different needs, visions, ...etc.)
 
 Languages
 ======
